@@ -13,7 +13,7 @@
 ##With GET
 ###with index.html, and aboutus.html, should show html for pages
 ###Any other .html should return 'error page not found'
-###other extensions besides .html should show 'error not and html file'
+###other extensions besides .html should show 'error not a html file'
 #
 #
 ##Other HTTP request besides GET
